@@ -1,0 +1,51 @@
+p
+{
+text-align: justify;
+line-height: 2em;
+text-align: center;
+text-indent: 10%;
+}
+
+p:first-letter
+{
+    text-transform: capitalize;
+    font-size: 1.5em;
+    text-decoration-style: solid;
+    font-family: 'McLaren';
+    
+}
+
+#elemento 
+{
+    
+padding: 10%;
+background:  url(./logo.jpg) no-repeat right center;
+text-align: left;
+text-indent: 10%;
+}
+
+.btn {
+margin: 1em;
+float: left;
+background: blue ;
+color: white;
+background: url(./face.png) no-repeat;
+}
+
+#Hola
+{
+    display: none;
+
+
+    }
+
+    #Mas:hover #Hola 
+{
+background-color: blue;
+display: inline;
+
+
+}
+
+
+
